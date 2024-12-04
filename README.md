@@ -22,10 +22,10 @@ How to Use the Torrent Downloader App
 # 1. Start the Server
 Run the application with the following command:
 
-you can start with default settings ./rsd 
+you can start with default settings ./rsd2
 
 
-./rsd --dir=/path/to/download/dir --port=8080 --user1=alice --pass1=secret1 --user2=bob --pass2=secret2
+./rsd2 --dir=/path/to/download/dir --port=8080 --user1=alice --pass1=secret1 --user2=bob --pass2=secret2
 --dir: Specifies the download directory.
 --port: Specifies the server port.
 --user1, --pass1, --user2, --pass2: Specifies usernames and passwords for authentication.
