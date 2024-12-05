@@ -2,7 +2,7 @@ Features of the Torrent Downloader App
 
 # 1. Torrent Downloading
 Efficient Downloading: Downloads torrents from magnet URIs.
-Download Files from the UI 
+Download Files from the UI avaliable only on version rsd2v2.go you need to build it into binary 
 
 # 2. Progress Tracking
 Real-Time Monitoring: Tracks download progress in real-time.
